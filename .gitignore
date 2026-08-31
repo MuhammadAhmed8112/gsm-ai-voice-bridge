@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.template
+*.tgz
+*secret*
+*credential*
+service-account.json
+google_credentials.json
+token.json
+logs/
+*.log
+*session*
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+*.csv
