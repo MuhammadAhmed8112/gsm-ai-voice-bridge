@@ -1,4 +1,4 @@
-# GSM-to-AI Voice Bridge
+# GSM-to-AI Voice Bridge Application
 
 An AI voice agent answering a **real SIM card** — not a cloud phone number.
 
